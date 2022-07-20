@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darshankaneria24
+- 👋 Hi, I’m Darshan Kaneria
 - 👀 I’m interested in Website design
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Website development
